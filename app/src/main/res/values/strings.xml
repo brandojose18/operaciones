@@ -4,4 +4,7 @@
     <string name="numero_uno">Numero Uno</string>
     <string name="numero_dos">Numero Dos</string>
     <string name="sumar">Sumar</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="error_numero_uno">Dijite el numero uno</string>
+    <string name="error_numero_dos">Dijite el numero dos</string>
 </resources>
