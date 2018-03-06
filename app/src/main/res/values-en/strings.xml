@@ -8,4 +8,9 @@
     <string name="limpiar">Clear</string>
     <string name="error_numero_uno">Type number one</string>
     <string name="error_numero_dos">Type number two</string>
+    <string name="operacion">Operation</string>
+    <string name="resta">Subtract</string>
+    <string name="multiplicar">Multiiply</string>
+    <string name="dividir">Divide</string>
+    <string name="error_numero_tres">Can\'t Type zero</string>
 </resources>
